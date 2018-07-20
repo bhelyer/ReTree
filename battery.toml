@@ -1,0 +1,4 @@
+name = "ReTree"
+output = "ReTree"
+dependencies = ["watt"]
+libraries = ["shell32.lib"]
