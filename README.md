@@ -3,7 +3,7 @@
 I got fed up with what was available in terms of recursively
 removing directories under plain CMD, so I wrote this simple little utility.
 
-ReTree goes through every argument its given and recursively moves
+ReTree goes through every argument it's given and recursively moves
 files to the recycling bin. That's it. I don't really expect this
 to be useful to anyone but myself, but if I'm going to throw it
 on GitHub anyway, I may as well make it a little presentable.
