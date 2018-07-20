@@ -8,6 +8,8 @@ files to the recycling bin. That's it. I don't really expect this
 to be useful to anyone but myself, but if I'm going to throw it
 on GitHub anyway, I may as well make it a little presentable.
 
+64 bit only.
+
 ## Justification
 
 `rmdir /s` is bizarre, trimming directories one at a time, requiring
