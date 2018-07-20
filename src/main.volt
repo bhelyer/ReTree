@@ -1,6 +1,6 @@
 /*!
  * A simple utility to move everything given to it to the Recycle Bin.
- * Released under the MIT License -- see README.md for more details.
+ * Released under the MIT License -- see LICENSE.md for more details.
  */
 module main;
 
